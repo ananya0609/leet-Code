@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/ananya0609/leet-Code/tree/master/2974-minimum-number-game) |
+## Math
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/ananya0609/leet-Code/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/ananya0609/leet-Code/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
