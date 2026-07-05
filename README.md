@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/ananya0609/leet-Code/tree/master/2974-minimum-number-game) |
 ## Sorting
@@ -31,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0709-to-lower-case](https://github.com/ananya0609/leet-Code/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
