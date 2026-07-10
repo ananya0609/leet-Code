@@ -51,10 +51,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ananya0609/leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ananya0609/leet-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ananya0609/leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ananya0609/leet-Code/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ananya0609/leet-Code/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ananya0609/leet-Code/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
