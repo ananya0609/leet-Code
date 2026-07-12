@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ananya0609/leet-Code/tree/master/0002-add-two-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/ananya0609/leet-Code/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ananya0609/leet-Code/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/ananya0609/leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananya0609/leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ananya0609/leet-Code/tree/master/0206-reverse-linked-list) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ananya0609/leet-Code/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ananya0609/leet-Code/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
