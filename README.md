@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ananya0609/leet-Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ananya0609/leet-Code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ananya0609/leet-Code/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/ananya0609/leet-Code/tree/master/0401-binary-watch) |
 | [1486-xor-operation-in-an-array](https://github.com/ananya0609/leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ananya0609/leet-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ananya0609/leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/ananya0609/leet-Code/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
