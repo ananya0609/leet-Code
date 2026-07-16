@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ananya0609/leet-Code/tree/master/0136-single-number) |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/ananya0609/leet-Code/tree/master/2974-minimum-number-game) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ananya0609/leet-Code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ananya0609/leet-Code/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/ananya0609/leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ananya0609/leet-Code/tree/master/2220-minimum-bit-flips-to-convert-number) |
