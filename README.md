@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0020-valid-parentheses) |
 | [0709-to-lower-case](https://github.com/ananya0609/leet-Code/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/ananya0609/leet-Code/tree/master/0401-binary-watch) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
