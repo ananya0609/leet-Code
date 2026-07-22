@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ananya0609/leet-Code/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/ananya0609/leet-Code/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/ananya0609/leet-Code/tree/master/2974-minimum-number-game) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ananya0609/leet-Code/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ananya0609/leet-Code/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ananya0609/leet-Code/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/ananya0609/leet-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ananya0609/leet-Code/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/ananya0609/leet-Code/tree/master/1486-xor-operation-in-an-array) |
 | [3024-type-of-triangle](https://github.com/ananya0609/leet-Code/tree/master/3024-type-of-triangle) |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ananya0609/leet-Code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ananya0609/leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
