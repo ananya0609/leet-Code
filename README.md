@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0709-to-lower-case](https://github.com/ananya0609/leet-Code/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/ananya0609/leet-Code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ananya0609/leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ananya0609/leet-Code/tree/master/0232-implement-queue-using-stacks) |
