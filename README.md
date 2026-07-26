@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ananya0609/leet-Code/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/ananya0609/leet-Code/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/ananya0609/leet-Code/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ananya0609/leet-Code/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananya0609/leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ananya0609/leet-Code/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/ananya0609/leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananya0609/leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/ananya0609/leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ananya0609/leet-Code/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ananya0609/leet-Code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ananya0609/leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ananya0609/leet-Code/tree/master/0232-implement-queue-using-stacks) |
@@ -151,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ananya0609/leet-Code/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ananya0609/leet-Code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
