@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ananya0609/leet-Code/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ananya0609/leet-Code/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/ananya0609/leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1550-three-consecutive-odds](https://github.com/ananya0609/leet-Code/tree/master/1550-three-consecutive-odds) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/ananya0609/leet-Code/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/ananya0609/leet-Code/tree/master/3024-type-of-triangle) |
