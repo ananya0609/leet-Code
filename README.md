@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ananya0609/leet-Code/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ananya0609/leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ananya0609/leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ananya0609/leet-Code/tree/master/0136-single-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/ananya0609/leet-Code/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/ananya0609/leet-Code/tree/master/0401-binary-watch) |
 ## Stack
 |  |
