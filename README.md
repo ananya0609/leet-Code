@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ananya0609/leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/ananya0609/leet-Code/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/ananya0609/leet-Code/tree/master/0709-to-lower-case) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ananya0609/leet-Code/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/ananya0609/leet-Code/tree/master/0401-binary-watch) |
 ## Stack
 |  |
