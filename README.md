@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ananya0609/leet-Code/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ananya0609/leet-Code/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ananya0609/leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ananya0609/leet-Code/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/ananya0609/leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/ananya0609/leet-Code/tree/master/1550-three-consecutive-odds) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ananya0609/leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ananya0609/leet-Code/tree/master/0735-asteroid-collision) |
 | [2974-minimum-number-game](https://github.com/ananya0609/leet-Code/tree/master/2974-minimum-number-game) |
 ## Math
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ananya0609/leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/ananya0609/leet-Code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ananya0609/leet-Code/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/ananya0609/leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ananya0609/leet-Code/tree/master/0735-asteroid-collision) |
 ## Enumeration
 |  |
