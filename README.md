@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ananya0609/leet-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ananya0609/leet-Code/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/ananya0609/leet-Code/tree/master/1486-xor-operation-in-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/ananya0609/leet-Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/ananya0609/leet-Code/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
