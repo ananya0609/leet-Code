@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ananya0609/leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ananya0609/leet-Code/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ananya0609/leet-Code/tree/master/0042-trapping-rain-water) |
+| [0079-word-search](https://github.com/ananya0609/leet-Code/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ananya0609/leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ananya0609/leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ananya0609/leet-Code/tree/master/0136-single-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/ananya0609/leet-Code/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/ananya0609/leet-Code/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/ananya0609/leet-Code/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ananya0609/leet-Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ananya0609/leet-Code/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/ananya0609/leet-Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ananya0609/leet-Code/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ananya0609/leet-Code/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/ananya0609/leet-Code/tree/master/0401-binary-watch) |
@@ -192,9 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ananya0609/leet-Code/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/ananya0609/leet-Code/tree/master/1672-richest-customer-wealth) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ananya0609/leet-Code/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
