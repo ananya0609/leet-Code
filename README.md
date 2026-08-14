@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ananya0609/leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ananya0609/leet-Code/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/ananya0609/leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/ananya0609/leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1550-three-consecutive-odds](https://github.com/ananya0609/leet-Code/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/ananya0609/leet-Code/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ananya0609/leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ananya0609/leet-Code/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ananya0609/leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -217,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya0609/leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/ananya0609/leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
