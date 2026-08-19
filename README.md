@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ananya0609/leet-Code/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ananya0609/leet-Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ananya0609/leet-Code/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/ananya0609/leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ananya0609/leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya0609/leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1550-three-consecutive-odds](https://github.com/ananya0609/leet-Code/tree/master/1550-three-consecutive-odds) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ananya0609/leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananya0609/leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/ananya0609/leet-Code/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/ananya0609/leet-Code/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya0609/leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/ananya0609/leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya0609/leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
