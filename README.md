@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ananya0609/leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/ananya0609/leet-Code/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/ananya0609/leet-Code/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/ananya0609/leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/ananya0609/leet-Code/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananya0609/leet-Code/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ananya0609/leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/ananya0609/leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananya0609/leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/ananya0609/leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ananya0609/leet-Code/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/ananya0609/leet-Code/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ananya0609/leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ananya0609/leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ananya0609/leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ananya0609/leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
